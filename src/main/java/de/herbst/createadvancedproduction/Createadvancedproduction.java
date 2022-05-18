@@ -26,7 +26,6 @@ import java.util.stream.Collectors;
 @Mod(Createadvancedproduction.MODID)
 public class Createadvancedproduction {
     public static final  String MODID = "createadvancedproduction";
-    // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
     public Createadvancedproduction() {
