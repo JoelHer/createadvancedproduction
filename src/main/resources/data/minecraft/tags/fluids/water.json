@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "createadvancedproduction:oil_flowing",
+    "createadvancedproduction:oil_fluid"
+  ]
+}
