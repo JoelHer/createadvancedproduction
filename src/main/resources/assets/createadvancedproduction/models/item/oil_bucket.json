@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "createadvancedproduction/oilbucket"
+    "layer0": "createadvancedproduction:item/oil_bucket"
   }
 }
