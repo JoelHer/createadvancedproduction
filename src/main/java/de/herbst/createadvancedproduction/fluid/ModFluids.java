@@ -20,7 +20,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 
 public class ModFluids {
     public static final ResourceLocation WATER_STILL_RL = new ResourceLocation("block/water_still");
-    public static final ResourceLocation WATER_FLOWING_RL = new ResourceLocation("block/water_flowing");
+    public static final ResourceLocation WATER_FLOWING_RL = new ResourceLocation("block/water_flow");
     public static final ResourceLocation WATER_OVERLAY_RL = new ResourceLocation("block/water_overlay");
 
     public static final DeferredRegister<Fluid> FLUIDS
