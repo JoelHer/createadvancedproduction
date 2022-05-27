@@ -1,5 +1,7 @@
 {
   "item.createadvancedproduction.oil_bucket": "Oil Bucket",
+  "item.createadvancedproduction.salt": "Salt",
   "block.createadvancedproduction.oil": "Oil",
-  "itemGroup.createAdvancedProductionMain": "Create Advanced Production"
+  "itemGroup.createAdvancedProductionMain": "Create Advanced Production",
+  "fluid.createadvancedproduction.oil_fluid": "Oil"
 }
